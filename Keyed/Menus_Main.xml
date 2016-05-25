@@ -21,8 +21,8 @@
   <!--=========== Version info ==========-->
   <BuildNowAvailable>البنية {0} متوفرة الان. اذهب للموقع ludeon.com لمزيد من المعلومات.</BuildNowAvailable>
 	<BuildUpToDate>Build is up to date.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+	<ErrorGettingVersionInfo>خطا في الحصول على معلومات هذا الاصدار: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>تحميل معلومات الاصدار...</LoadingVersionInfo>
 
   <!--=========== Mods screen ==========-->
   <GetMods>الحصول على المودات</GetMods>
@@ -41,8 +41,8 @@
   <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
   <Randomize>إختيار عشوائي</Randomize>
   <AgeIndicator>العمر {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
+  <Backstory>قصة صغيرة</Backstory>
+  <IncapableOf>لا يقدر على</IncapableOf>
   <Traits>الصفات</Traits>
   <TraitsDoNothing>Traits are just fun story bits for now; most of them don't do anything. This will change in future versions.</TraitsDoNothing>
   <Skills>المهارات</Skills>
