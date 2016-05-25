@@ -3,19 +3,19 @@
 
   <Audiovisuals>Audiovisuals</Audiovisuals>
 
-  <GameVolume>Game volume</GameVolume>
+  <GameVolume>صوت اللعبة</GameVolume>
 
-  <MusicVolume>Music volume</MusicVolume>
+  <MusicVolume>صوت الموسيقى</MusicVolume>
 
-  <GraphicsQuality>Graphics quality</GraphicsQuality>
-  <GraphicsQualityNormal>Normal</GraphicsQualityNormal>
-    <GraphicsQualityGreat>Great</GraphicsQualityGreat>
+  <GraphicsQuality>جودة الرسومات</GraphicsQuality>
+  <GraphicsQualityNormal>عاديl</GraphicsQualityNormal>
+    <GraphicsQualityGreat>ممتاز</GraphicsQualityGreat>
 
   <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
   
   <CustomCursor>Custom cursor</CustomCursor>
 
-  <ChooseLanguage>Choose language</ChooseLanguage>
+  <ChooseLanguage>اختيار اللغة</ChooseLanguage>
 
   <AdaptiveTutor>Adaptive tutor</AdaptiveTutor>
 
@@ -23,17 +23,17 @@
 
   <AdaptiveTutorIsReset>Adaptive tutor is reset. He will now teach you from scratch.</AdaptiveTutorIsReset>
 
-  <RunInBackground>Run in background</RunInBackground>
+  <RunInBackground>تشغيل في الخلفية</RunInBackground>
 
-  <DevelopmentMode>Development mode</DevelopmentMode>
+  <DevelopmentMode>وضع المطورين</DevelopmentMode>
 
   <LogDeepProfileData>Log deep profile data</LogDeepProfileData>
   
   <NamesYouWantToSee>Last names of Name in Game or Backstory in Game characters you want to see:</NamesYouWantToSee>
 
   <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
-  <CurrentRes>Currently {0}</CurrentRes>
+  <Fullscreen>وضع ملئ الشاشة</Fullscreen>
+  <CurrentRes>حاليا {0}</CurrentRes>
 
   <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
   
