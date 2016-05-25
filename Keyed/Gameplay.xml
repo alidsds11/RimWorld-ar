@@ -4,10 +4,10 @@
   <!-- Various -->
   <WorkLeft>Work left</WorkLeft>
   <Contents>Contents</Contents>
-  <ForPrisonerUse>For prisoner use</ForPrisonerUse>
+  <ForPrisonerUse>لستخدام السجناء</ForPrisonerUse>
   <ForColonistUse>For colonist use</ForColonistUse>
   <Owner>المالك</Owner>
-  <Nobody>Nobody</Nobody>
+  <Nobody>لا احد</Nobody>
   <Unowned>غير مملوك</Unowned>
   <GunInstalled>مثبت</GunInstalled>
   <DeadTime> {0} ميت</DeadTime>
@@ -15,7 +15,7 @@
   <DyingLower>يموت</DyingLower>
   <PawnEffectiveness>التأثير</PawnEffectiveness>
   <FilthOnFeet>القذارة على القدم</FilthOnFeet>
-  <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
+  <NotEnoughStoredLower>لا يوجد كافية في المخزن</NotEnoughStoredLower>
   
 
 	<!-- Job reports -->
@@ -32,7 +32,7 @@
 	<Weather>الطقس</Weather>
 	<ShootingCover>Cover</ShootingCover>
 	<CoverThingBlocksPercentOfShots>{0} stops {1}</CoverThingBlocksPercentOfShots>
-	<NoCoverLower>no cover</NoCoverLower>
+	<NoCoverLower>بلا غطاء</NoCoverLower>
 	
 	
 	<!-- Status levels -->
@@ -61,14 +61,14 @@
 
   <!--Effectiveness-->
   <EffectivenessFull>Full</EffectivenessFull>
-  <EffectivenessReduced>Reduced</EffectivenessReduced>
+  <EffectivenessReduced>تقليل</EffectivenessReduced>
   <EffectivenessImpaired>Impaired</EffectivenessImpaired>
   <EffectivenessIncapacitated>Incapacitated</EffectivenessIncapacitated>
 
   <!-- Time indicator-->
-  <ClockDay>Day</ClockDay>
-  <ClockTime>Time</ClockTime>
-  <ClockTip>The time of day and number of days since your arrival.</ClockTip>
+  <ClockDay>يوم</ClockDay>
+  <ClockTime>وقت</ClockTime>
+  <ClockTip>عدد الساعات والايام منذ وصولك.</ClockTip>
   
   <!-- Pawn info readout -->
   <Health>Health</Health>
@@ -93,12 +93,12 @@
 
   <!-- ITab titles -->
   <TabBills>Bills</TabBills>
-  <TabGrowing>Growing</TabGrowing>
-  <TabCharacter>Character</TabCharacter>
-  <TabNeeds>Needs</TabNeeds>
-  <TabPrisoner>Prisoner</TabPrisoner>
-  <TabThoughts>Thoughts</TabThoughts>
-  <TabStorage>Storage</TabStorage>
+  <TabGrowing>ينمو</TabGrowing>
+  <TabCharacter>شخصية</TabCharacter>
+  <TabNeeds>احتياجات</TabNeeds>
+  <TabPrisoner>سجين</TabPrisoner>
+  <TabThoughts>افكارs</TabThoughts>
+  <TabStorage>مخزن</TabStorage>
 
 	<!-- ITabs -->
 	<AddBill>Add bill</AddBill>
@@ -129,8 +129,8 @@
   
   
 	<!--Rotting-->
-	<RotStateFresh>Fresh</RotStateFresh>
-	<RotStateRotting>Rotting</RotStateRotting>
+	<RotStateFresh>جديد</RotStateFresh>
+	<RotStateRotti</RotStateRotting>
 	<RotStateDessicated>Dessicated</RotStateDessicated>
 	
   <!-- Shooting tooltip -->
